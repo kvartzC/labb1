@@ -1,0 +1,10 @@
+.app {
+  width: 500px;
+  margin: 0 auto;
+}
+
+/* I know this is bad, but right now I'm really lazy. Sorry! :P */
+label {
+  margin-top: 10px;
+  display: block;
+}
